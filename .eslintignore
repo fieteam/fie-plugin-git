@@ -1,0 +1,4 @@
+
+# node 覆盖率文件
+coverage/
+node_modules/
